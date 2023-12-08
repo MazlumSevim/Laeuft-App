@@ -3,3 +3,4 @@ Die „Läuft-App“ soll das Einkaufs- und Wegwerf-Verhalten von Nutzerinnen un
 
 The “Läuft-App” is intended to improve users’ shopping and throwaway behavior. By being able to manually add differently categorized products and view them in a list, edit and delete them. And you will be notified shortly before it expires. You can choose the notification days yourself: 2, 4, 5 or 7 days in advance.„# Laeuft-App“
 „# Laeuft-App“
+„# Laeuft-App“
