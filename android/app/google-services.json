@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "278738925372",
+    "project_id": "lauft-app",
+    "storage_bucket": "lauft-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278738925372:android:60fc42c7950d59099e1039",
+        "android_client_info": {
+          "package_name": "com.example.lauft_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278738925372-qlmj5h1tqr52i0cmoh0oa7jddcq8h63f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4zP-XPdeOOoKLUlo8gmYzzBFhTpCVWdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278738925372-qlmj5h1tqr52i0cmoh0oa7jddcq8h63f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "278738925372-tpvotmihgoebaprht8go0n72nu0phn0o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lauftApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
